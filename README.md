@@ -15,7 +15,7 @@ You must know the following:
 6. How to work with a team and use Github Issue tracking
 >If you fit the bill, please join my discord or email me.
 ## Requesting / Information
-> You can contact me email or my discord
+> You can contact me email or my discord<br>
 > Email: drweeb at protonmail dot com
 > [Discord](https://discord.gg/5tQKtFJ)
 > [Patreon](https://www.patreon.com/DrWeeb)
