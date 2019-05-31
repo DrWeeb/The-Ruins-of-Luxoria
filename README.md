@@ -16,8 +16,8 @@ You must know the following:
 >If you fit the bill, please join my discord or email me.
 ## Requesting / Information
 > You can contact me email or my discord<br>
-> Email: drweeb at protonmail dot com
-> [Discord](https://discord.gg/5tQKtFJ)
+> Email: drweeb at protonmail dot com<br>
+> [Discord](https://discord.gg/5tQKtFJ)<br>
 > [Patreon](https://www.patreon.com/DrWeeb)
 ## Usage of my work
 1. You may use my work as granted in the license. However you should not share my translation with the game, as this is pirating. But I can't stop you from doing so.
